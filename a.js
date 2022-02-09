@@ -8,3 +8,6 @@ console.log('hotfix 3')
 
 console.log('add during feature')
 console.log('after feature change main');
+console.log('after feature change main');
+
+console.log('last test')
