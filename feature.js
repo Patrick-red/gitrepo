@@ -15,3 +15,4 @@ console.log('DE2020');
 
 console.log('DE2021');
 
+console.error('rebase-test: DE2022 1')
